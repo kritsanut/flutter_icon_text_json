@@ -1,0 +1,7 @@
+{
+    "id": 1,
+    "priority": "Low",
+    "priority_color": "0xFFFFFFFF",
+    "priority_button_color": "0xFF6E7C7D",
+    "icon_font": "f2b9", //unicode
+  },
