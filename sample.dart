@@ -1,7 +1,7 @@
-backgroundColor: Color(int.parse(cgIncident.priority_button_color),),
+backgroundColor: Color(int.parse(servicename.priority_button_color),),
 
 
-Icon(IconData(int.parse("0x"+menuModel.icon_code),
+Icon(IconData(int.parse("0x"+servicename.icon_font),
                   fontFamily:'Material Design Icons',
                   fontPackage:'material_design_icons_flutter'),
                   color: Colors.blueGrey, size: 45, ),
